@@ -1,0 +1,11 @@
+C:\Users\akzuz\Desktop\lab_7_2\bin\Debug\lab_7_2.exe.config
+C:\Users\akzuz\Desktop\lab_7_2\bin\Debug\lab_7_2.exe
+C:\Users\akzuz\Desktop\lab_7_2\bin\Debug\lab_7_2.pdb
+C:\Users\akzuz\Desktop\lab_7_2\obj\Debug\lab_7_2.csproj.AssemblyReference.cache
+C:\Users\akzuz\Desktop\lab_7_2\obj\Debug\lab_7_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\akzuz\Desktop\lab_7_2\obj\Debug\lab_7_2.Form1.resources
+C:\Users\akzuz\Desktop\lab_7_2\obj\Debug\lab_7_2.Properties.Resources.resources
+C:\Users\akzuz\Desktop\lab_7_2\obj\Debug\lab_7_2.csproj.GenerateResource.cache
+C:\Users\akzuz\Desktop\lab_7_2\obj\Debug\lab_7_2.csproj.CoreCompileInputs.cache
+C:\Users\akzuz\Desktop\lab_7_2\obj\Debug\lab_7_2.exe
+C:\Users\akzuz\Desktop\lab_7_2\obj\Debug\lab_7_2.pdb
